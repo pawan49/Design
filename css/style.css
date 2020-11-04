@@ -407,10 +407,14 @@ img {
         width: 70%;
     }
     .showcase p {
-        margin: 20px 20px;
+        margin: 20px 0px;
+        text-align: justify;
     }
     .showcase .card {
-        width: 95%;
+        width: 100%;
+    }
+    .showcase .container {
+        padding: 0 20px;
     }
 }
 
